@@ -1,0 +1,29 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "engines": {
+    "node": ">14"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Radush Volodymyr",
+  "license": "ISC",
+  "homepage": "radush-radency.com",
+  "repository": {
+    "type": "git",
+    "url": "https://radush-official.netlify.app"
+  },
+  "bugs": {
+    "url": "https://radush-official.netlify.app",
+    "email": "radush9860@gmail.com"
+  }
+}
