@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://radush-official.netlify.app",
     "email": "radush9860@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^1.2.3"
   }
 }
